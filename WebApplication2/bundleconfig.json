@@ -1,0 +1,9 @@
+[
+  {
+    "outputFileName": "wwwroot/css/demo.min.css",
+    "inputFiles": [
+      "wwwroot/css/vars.css",
+      "wwwroot/css/site.css"
+    ]
+  }
+]

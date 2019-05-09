@@ -1,0 +1,9 @@
+﻿:root {
+    /* define variables */
+    --body-font-size: 16px;
+    --body-line-height: 30px;
+    --h1-font-size: 30px;
+    --h1-line-height: 50px;
+    --color-dark-blue: #233E5E;
+    --color-fresh-blue: #427EF2;
+}
